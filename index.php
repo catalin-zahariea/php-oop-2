@@ -1,6 +1,5 @@
 <?php
     require_once __DIR__ . '/user.php';
-    require_once __DIR__ . '/product.php';
     require_once __DIR__ . '/lotion.php';
     require_once __DIR__ . '/lipstick.php';
     require_once __DIR__ . '/deodorant.php';
